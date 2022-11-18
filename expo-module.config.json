@@ -1,0 +1,9 @@
+{
+  "platforms": ["ios", "android", "web"],
+  "ios": {
+    "modules": ["RNSha256Module"]
+  },
+  "android": {
+    "modules": ["com.nasirimehr.sha256.RNSha256Module"]
+  }
+}
