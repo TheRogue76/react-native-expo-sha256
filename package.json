@@ -1,6 +1,6 @@
 {
   "name": "react-native-expo-sha256",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "A hasher (MD6, SHA-1, SHA-256, SHA-384, SHA-512) written using the new expo modules that supports all React native architectures",
   "main": "build/index.js",
   "types": "build/index.d.ts",
